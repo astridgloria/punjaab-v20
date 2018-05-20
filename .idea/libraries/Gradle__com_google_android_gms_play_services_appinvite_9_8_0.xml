@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-appinvite-9.8.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/4c84dfd69ab7bfff2851b4fb3f6d325b5fcf7d0e/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/4c84dfd69ab7bfff2851b4fb3f6d325b5fcf7d0e/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
